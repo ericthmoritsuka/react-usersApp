@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ericthmoritsuka/react-usersApp/static/css/main.37d378b1.css",
-    "main.js": "/ericthmoritsuka/react-usersApp/static/js/main.d92c2c8d.js",
-    "static/js/787.45554548.chunk.js": "/ericthmoritsuka/react-usersApp/static/js/787.45554548.chunk.js",
-    "index.html": "/ericthmoritsuka/react-usersApp/index.html",
-    "main.37d378b1.css.map": "/ericthmoritsuka/react-usersApp/static/css/main.37d378b1.css.map",
-    "main.d92c2c8d.js.map": "/ericthmoritsuka/react-usersApp/static/js/main.d92c2c8d.js.map",
-    "787.45554548.chunk.js.map": "/ericthmoritsuka/react-usersApp/static/js/787.45554548.chunk.js.map"
+    "main.css": "/react-usersApp/static/css/main.37d378b1.css",
+    "main.js": "/react-usersApp/static/js/main.a4ddf7b1.js",
+    "static/js/787.45554548.chunk.js": "/react-usersApp/static/js/787.45554548.chunk.js",
+    "index.html": "/react-usersApp/index.html",
+    "main.37d378b1.css.map": "/react-usersApp/static/css/main.37d378b1.css.map",
+    "main.a4ddf7b1.js.map": "/react-usersApp/static/js/main.a4ddf7b1.js.map",
+    "787.45554548.chunk.js.map": "/react-usersApp/static/js/787.45554548.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.37d378b1.css",
-    "static/js/main.d92c2c8d.js"
+    "static/js/main.a4ddf7b1.js"
   ]
 }
